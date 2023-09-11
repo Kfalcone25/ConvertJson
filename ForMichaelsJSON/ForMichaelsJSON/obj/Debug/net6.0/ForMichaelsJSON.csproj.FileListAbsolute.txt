@@ -1,0 +1,17 @@
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.AssemblyInfoInputs.cache
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.AssemblyInfo.cs
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.csproj.CoreCompileInputs.cache
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\ForMichaelsJSON.exe
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\ForMichaelsJSON.deps.json
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\ForMichaelsJSON.runtimeconfig.json
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\ForMichaelsJSON.dll
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\ForMichaelsJSON.pdb
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.csproj.AssemblyReference.cache
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.csproj.CopyComplete
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.dll
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\refint\ForMichaelsJSON.dll
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.pdb
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ForMichaelsJSON.genruntimeconfig.cache
+C:\Users\kfalcone\source\repos\ForMichaelsJSON\ForMichaelsJSON\obj\Debug\net6.0\ref\ForMichaelsJSON.dll
